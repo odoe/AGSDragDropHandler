@@ -1,0 +1,13 @@
+$header_color: #d66756;
+$bg_color2: #476767;
+$bg_color: #f2f6fa;
+$content_color: #88a8c1;
+
+$helvetica: "helvetica neue", arial, helvetica, freesans,
+            "libaration sans", "numbus sans l", sans-serif;
+
+body {
+  font-family: $helvetica !important;
+  color: #fff;
+  //background: $bg_color;
+}

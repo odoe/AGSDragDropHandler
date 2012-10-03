@@ -1,0 +1,6 @@
+{
+	"name": "dragdropdemo",
+	"version": "0.1",
+	"main": "main",
+	"build": "app.build.js"
+}

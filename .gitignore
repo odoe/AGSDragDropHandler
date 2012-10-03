@@ -1,0 +1,7 @@
+*.swp
+*~
+example/src/.sass-cache/*
+*.rb
+.sass/*
+.img/*
+release/*
